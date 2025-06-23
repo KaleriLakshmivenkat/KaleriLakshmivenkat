@@ -1,4 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋What's Up? Myself K.Lakshmi Venkat</h1>
+<p align="center">
+🌱 I'm a final-year student from the Cybersecurity branch, passionate about securing the digital world.<br>
+🛡️ I’m deeply interested in ethical hacking, system security, and building safer tech environments.<br>
+💻 I'm also exploring full-stack web development with the MERN stack to bring secure and scalable applications to life.<br>
+🤝 I'm a strong believer in teamwork, collaboration, and agile thinking.<br>
+🔭 Always curious, always building—eager to contribute to impactful projects.<br>
+📫 Let's connect and grow together!
+</p>
 
 ###
 
