@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up? Myself K.Lakshmi Venkat</h1>
+<h1 align="center">Hey 👋What's Up Myself K.Lakshmi Venkat</h1>
 <p>
 🎓 I'm a final-year student from the Cybersecurity branch, passionate about securing the digital world.<br>
 🛡️ I'm deeply interested in ethical hacking, system security, and building safer tech environments.<br>
