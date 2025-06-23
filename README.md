@@ -1,6 +1,5 @@
 <h1 align="center">Hey 👋What's Up? Myself K.Lakshmi Venkat</h1>
 <p>
-👋 Hey, what's up? I'm K. Lakshmi Venkat.<br>
 🎓 I'm a final-year student from the Cybersecurity branch, passionate about securing the digital world.<br>
 🛡️ I'm deeply interested in ethical hacking, system security, and building safer tech environments.<br>
 💻 I'm also exploring full-stack web development with the MERN stack to build secure, scalable applications.<br>
